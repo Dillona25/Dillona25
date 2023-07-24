@@ -7,11 +7,7 @@ Here at Tripleten, thus far I have learned everything needed to be a front-end d
 Thus far I have created multiple projects you can check out on my Github page. From fully responsive websites and a website using JavaScript! I am exciting to continue this passionate journey! 
 
 💬 Feel free to ask me about my career goals, as well as life goals! I love talking and would love to hear yours too! :)
-
-## ✉️ Find me on:
-<p align="center">
-<a href="https://www.linkedin.com/in/dillon-arnold-352782275/">
-  </p>
+Connect with me here: https://www.linkedin.com/in/dillon-arnold-352782275/
 
   <br /> 
 
