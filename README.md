@@ -7,10 +7,11 @@ Here at Tripleten, thus far I have learned everything needed to be a front-end d
 Thus far I have created multiple projects you can check out on my Github page. From fully responsive websites and a website using JavaScript! I am exciting to continue this passionate journey! 
 
 💬 Feel free to ask me about my career goals, as well as life goals! I love talking and would love to hear yours too! :)
+
 Connect with me here: https://www.linkedin.com/in/dillon-arnold-352782275/
 
   <br /> 
-## 🧰 Languages and Tools:
+ 🧰 Languages and Tools:
   <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
