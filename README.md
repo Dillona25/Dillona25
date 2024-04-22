@@ -30,8 +30,6 @@ Full-Stack engineer with expertise in JavaScript, React.js, Node.js and more. Pa
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### My portfolio
-📁 https://arnoldsportfolio.com/
 
 ### Let's Connect
 📱 LinkedIn: https://www.linkedin.com/in/dillonarnold/
