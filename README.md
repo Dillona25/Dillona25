@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Full-Stack engineer with expertise in JavaScript, React.js, Node.js and more. Passionate about problem-solving through code and a relentless pursuit of non-stop learning. In addition to my experience in full-stack development, my work history brings a wealth of experience in leadership, project management, and collaboration with a proven track record of delivering efficient, and impactful solutions.
-
 ### Languages 🧑🏼‍💻: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
