@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-My GitLab is cooler... 
+Gitlab reflects my real work and coding abilites...
   
 
   
