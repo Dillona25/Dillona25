@@ -1,3 +1,3 @@
-## Hey there 👋
+## I just enjoy building things!
 
-My real work is in Gitlab...
+AI/ML is cool too. 
